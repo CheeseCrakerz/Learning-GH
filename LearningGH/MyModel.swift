@@ -8,5 +8,5 @@
 import Foundation
 
 struct MyMoel {
-    var name:String?
+    var name:String = "Mike"
 }
